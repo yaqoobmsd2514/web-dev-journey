@@ -3,7 +3,6 @@
 Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on journey in Web Development at **SMIT Aziz Jan Trust, Peshawar**.
 
 > 📅 Started: **19 July 2025**  
-> 📂 Structure: Daily folders with notes, files, and projects
 
 ---
 
