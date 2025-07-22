@@ -34,7 +34,7 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 ---
 
 ### 📅 Day 2 – *(Coming Soon)*
-📁 `html/SMIT - 2nd Class - 22 July 2025` *(example)*
+
 
 ---
 
