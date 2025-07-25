@@ -2,46 +2,67 @@
 
 Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on journey in Web Development at **SMIT Aziz Jan Trust, Peshawar**.
 
-📅 **Started: 19 July 2025**
+> 📅 Started: **19 July 2025**  
+> 📂 Structure: Daily folders with notes, files, and projects
 
-🚀 **Learning Goals**<br />
-✅ HTML5 & CSS3<br />
-✅ Responsive Design<br />
-✅ Web Tools (Bootstrap, Figma, GitHub)<br />
-✅ Hosting (Netlify, GitHub Pages)<br />
-✅ Real-world Projects
+---
 
-📘 **Daily Progress**
+## 🚀 Learning Goals
+- HTML5 & CSS3
+- Responsive Design
+- Web Tools (Bootstrap, Figma, GitHub)
+- Hosting (Netlify, GitHub Pages)
+- Real-world Projects
 
-📅 **Day 1 – HTML Basics & Personal CV**
+---
 
-**What I Learned:**<br />
-❖ Structure of an HTML document<br />
-❖Headings<br />
-❖Paragraphs<br />
-❖Created my first basic webpage<br />
-❖Built a personal CV using HTML<br />
+## 📘 Daily Progress
 
-**🗂 Files:**<br />
-❖index.html<br />
-❖cv.html
+### 📅 Day 1 – HTML Basics & Personal CV
+📁 `html/SMIT - 1st Class - 19 July 2025`
 
-**📅 Day 2 – Formatting Text & Creating Web Resume**
+**What I Learned:**
+- Structure of HTML documents
+- Headings (`<h1>` to `<h6>`)
+- Paragraphs (`<p>`)
+- Created my first basic webpage
+- Built a personal CV using HTML
 
-**What I Learned:**<br />
-❖HTML text formatting tags<br /> 
-❖Semantic HTML tags for better structure<br />
-❖Importance of indentation and comments in HTML<br />
-❖Created a second version of my personal resume using all the learned tags<br />
+**Files:**
+- `index.html`
+- `cv.html`
 
-**🗂 Files:**<br />
-❖index.html<br />
-❖cv.html
+---
+## 📚 Day 2 – Text Formatting & HTML Tags
 
-**📌 Purpose:**<br />
-This repository documents my full learning journey — from beginner to pro — in full-stack web development.
-Each class has dedicated folders, code files, and notes to reflect my growth and consistency.
+**Folder:** `html/SMIT - 2nd Class - 20 July 2025`
 
-🔗 **Connect with Me**
+### ✅ What I Learned:
+- Text formatting tags: `<b>`, `<i>`, `<strong>`, `<em>`
+- Line breaks `<br>` and horizontal lines `<hr>`
+- Superscript `<sup>` and subscript `<sub>`
+- Quotation tags: `<blockquote>`, `<q>`
+- Meta tags for responsiveness
+- Updated HTML-based CV
+
+### 📄 Files:
+- `day2.html` – Practice file for Day 2
+- `cv.html` – Updated with new tags
+
+---
+
+### 📅 Day 3 – *(Coming Soon)*
+
+---
+
+## 📌 Purpose
+
+This repository will document my **complete learning journey**, from beginner to pro, in full-stack web development.  
+I'll be adding folders, code, and notes for each day of class to showcase my growth and consistency.
+
+---
+
+## 🔗 Connect with Me
+
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yaqoob-m)
 - 💻 [GitHub](https://github.com/yaqoobmsd2514)
