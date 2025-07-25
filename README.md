@@ -2,62 +2,46 @@
 
 Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on journey in Web Development at **SMIT Aziz Jan Trust, Peshawar**.
 
-> 📅 Started: **19 July 2025**  
+📅 **Started: 19 July 2025**
 
----
+🚀 **Learning Goals**<br />
+✅ HTML5 & CSS3<br />
+✅ Responsive Design<br />
+✅ Web Tools (Bootstrap, Figma, GitHub)<br />
+✅ Hosting (Netlify, GitHub Pages)<br />
+✅ Real-world Projects
 
-## 🚀 Learning Goals
-- HTML5 & CSS3
-- Responsive Design
-- Web Tools (Bootstrap, Figma, GitHub)
-- Hosting (Netlify, GitHub Pages)
-- Real-world Projects
+📘 **Daily Progress**
 
-📘 Daily Progress
-📅 Day 1 – HTML Basics & Personal CV
-📁 All HTML Files Here/SMIT - 1st Class - 19 July 2025
+📅 **Day 1 – HTML Basics & Personal CV**
 
-What I Learned:
+**What I Learned:**<br />
+❖ Structure of an HTML document<br />
+❖Headings<br />
+❖Paragraphs<br />
+❖Created my first basic webpage<br />
+❖Built a personal CV using HTML<br />
 
-Structure of an HTML document
+**🗂 Files:**<br />
+❖index.html<br />
+❖cv.html
 
-Headings (<h1> to <h6>)
+**📅 Day 2 – Formatting Text & Creating Web Resume**
 
-Paragraphs (<p>)
+**What I Learned:**<br />
+❖HTML text formatting tags<br /> 
+❖Semantic HTML tags for better structure<br />
+❖Importance of indentation and comments in HTML<br />
+❖Created a second version of my personal resume using all the learned tags<br />
 
-Created my first basic webpage
+**🗂 Files:**<br />
+❖index.html<br />
+❖cv.html
 
-Built a personal CV using HTML
-
-🗂 Files:
-
-index.html
-
-cv.html
-
-📅 Day 2 – Formatting Text & Creating Web Resume
-📁 All HTML Files Here/SMIT - 2nd Class - 20 July 2025
-
-What I Learned:
-
-HTML text formatting tags (<b>, <i>, <u>, <sup>, <sub>, <br>, etc.)
-
-Semantic HTML tags for better structure (<strong>, <em>, <abbr>, etc.)
-
-Importance of indentation and comments in HTML
-
-Created a second version of my personal resume using all the learned tags
-
-🗂 Files:
-
-index.html
-
-cv.html
-
-📌 Purpose
+**📌 Purpose:**<br />
 This repository documents my full learning journey — from beginner to pro — in full-stack web development.
 Each class has dedicated folders, code files, and notes to reflect my growth and consistency.
 
-🔗 Connect with Me
+🔗 **Connect with Me**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/yaqoob-m)
 - 💻 [GitHub](https://github.com/yaqoobmsd2514)
