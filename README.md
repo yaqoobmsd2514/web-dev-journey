@@ -3,6 +3,7 @@
 Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on journey in Web Development at **SMIT Aziz Jan Trust, Peshawar**.
 
 > 📅 Started: **19 July 2025**  
+> 📂 Structure: Daily folders with notes, files, and projects
 
 ---
 
@@ -32,9 +33,25 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 - `cv.html`
 
 ---
+## 📚 Day 2 – Text Formatting & HTML Tags
 
-### 📅 Day 2 – *(Coming Soon)*
+**Folder:** `html/SMIT - 2nd Class - 20 July 2025`
 
+### ✅ What I Learned:
+- Text formatting tags: `<b>`, `<i>`, `<strong>`, `<em>`
+- Line breaks `<br>` and horizontal lines `<hr>`
+- Superscript `<sup>` and subscript `<sub>`
+- Quotation tags: `<blockquote>`, `<q>`
+- Meta tags for responsiveness
+- Updated HTML-based CV
+
+### 📄 Files:
+- `day2.html` – Practice file for Day 2
+- `cv.html` – Updated with new tags
+
+---
+
+### 📅 Day 3 – *(Coming Soon)*
 
 ---
 
