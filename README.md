@@ -51,7 +51,26 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 
 ---
 
-### 📅 Day 3 – *(Coming Soon)*
+### 📅 Day 3 – HTML Lists, Citations, and Address Tags  
+📁 `html/SMIT - 3rd Class - 27 July 2025`
+
+### ✅ What I Learned:
+- **Ordered Lists `<ol>`** and **Unordered Lists `<ul>`**
+- **Definition Lists `<dl>`, `<dt>`, `<dd>`**
+- **Nested Lists**: Lists inside lists (both `<ul>` and `<ol>`)
+- **Abbreviations `<abbr>`** and **Acronyms `<acronym>`**
+- **Citations `<cite>`** and **Definitions `<dfn>`**
+- **Address Tag `<address>`** for author/contact info
+- **Deleted `<del>` and Inserted `<ins>` text**
+- Explored **real-world examples** like provinces of Pakistan and professors’ bios
+
+### 📄 Files:
+- `lists.html` – Ordered, Unordered, Definition, and Nested Lists
+- `text-tags.html` – Abbreviations, Acronyms, Cite, Dfn, Address
+- `pakistan.html` – Nested structure of Pakistani provinces and districts
+
+---
+### 📅 Day 4 – *(Coming Soon)*
 
 ---
 
