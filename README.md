@@ -55,14 +55,14 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 📁 `html/SMIT - 3rd Class - 26 July 2025`
 
 ### ✅ What I Learned:
-- **Ordered Lists `<ol>`** and **Unordered Lists `<ul>`**
-- **Definition Lists `<dl>`, `<dt>`, `<dd>`**
-- **Nested Lists**: Lists inside lists (both `<ul>` and `<ol>`)
-- **Abbreviations `<abbr>`** and **Acronyms `<acronym>`**
-- **Citations `<cite>`** and **Definitions `<dfn>`**
-- **Address Tag `<address>`** for author/contact info
-- **Deleted `<del>` and Inserted `<ins>` text**
-- Explored **real-world examples** like provinces of Pakistan and professors’ bios
+- Ordered Lists `<ol>` and Unordered Lists `<ul>`
+- Definition Lists `<dl>`, `<dt>`, `<dd>`
+- Nested Lists: Lists inside lists (both `<ul>` and `<ol>`)
+- Abbreviations `<abbr>` and Acronyms `<acronym>`
+- Citations `<cite>` and Definitions `<dfn>`
+- Address Tag `<address>` for author/contact info
+- Deleted `<del>` and Inserted `<ins>` text
+- Explored real-world examples like provinces of Pakistan and professors’ bios
 
 ### 📄 Files:
 - `classtask.html` – Ordered, Unordered, Definition, and Nested Lists
@@ -70,7 +70,32 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 - `lists.html` – Nested structure of Pakistani provinces and districts
 
 ---
-### 📅 Day 4 – *(Coming Soon)*
+
+### 📅 Day 4 – HTML Links, Navigation, CSS & JS Intro  
+📁 `html/SMIT - 4th Class - 27 July 2025`
+
+**✅ What I Learned:**
+- Created internal and external hyperlinks using the `<a>` tag
+- Built a simple website layout with working navigation (Home, CSS, JS)
+- Practiced linking between multiple HTML files
+- Wrote basic CSS introduction (using text and headings)
+- Understood the purpose of JavaScript in webpages
+
+**🧠 Key Concepts:**
+- `<a href="...">` for internal and external links
+- File linking structure and folder navigation
+- Use of `<ul>` and `<li>` for listing social links
+- Navigation between multiple pages in a mini-site
+
+**📄 Files:**
+- `links.html` – My Social Accounts with external links
+- `index.html` – Homepage with links to other files
+- `css.html` – CSS basics explanation
+- `JS.html` – JavaScript page with purpose of JS
+
+---
+
+### 📅 Day 5 – *(Coming Soon)*
 
 ---
 
