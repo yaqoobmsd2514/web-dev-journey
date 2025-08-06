@@ -129,7 +129,30 @@ With nested links to KPK, Sindh, Punjab, and Balochistan provinces — and withi
 
 ---
 
-### 📅 Day 6 – *(Coming Soon)*
+## 📅 Day 6: SMIT - 6th Class - 03 August 2025
+
+Today, I built the main **Home Page of Pakistan** using basic HTML structure. I created a nested list navigation system that links to all four provinces (Punjab, Sindh, KPK, Balochistan) and their major cities such as Peshawar, DIKhan, Karachi, Larkana, Rawalpindi, Faisalabad, Quetta, and Chaghi.  
+
+This page includes:
+- A hierarchical `<ul>` and `<li>` navigation menu.
+- Nested internal links using relative paths for all cities and provinces.
+- Two images of Pakistan added for visual enhancement.
+- A short descriptive paragraph summarizing Pakistan’s geography, culture, and economy.
+
+🔗 **Navigation Structure Highlights**:
+- Provinces and their cities are linked clearly.
+- Each city points to its own dedicated HTML file inside the respective subfolder.
+
+🧠 **Skills Applied**:
+- Folder structuring
+- Relative link management
+- Semantic HTML tags
+- Image handling with `alt` and `title`
+- Clean indentation and nesting
+
+---
+
+### 📅 Day 7 – *(Coming Soon)*
 
 ---
 
