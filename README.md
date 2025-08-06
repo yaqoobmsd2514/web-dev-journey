@@ -95,7 +95,41 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 
 ---
 
-### 📅 Day 5 – *(Coming Soon)*
+### 📘 Day 5: SMIT - 5th Class - 02 August 2025
+
+#### 🗂 Folder Name:
+`SMIT - 5th Class - 02 August 2025`
+
+#### 📄 Files Created:
+- `index.html`
+- Pages for each province and cities inside structured folders:
+  - `pages/KPK/index.html`
+  - `pages/KPK/peshawar.html`
+  - `pages/KPK/dikhan.html`
+  - `pages/Sindh/index.html`
+  - `pages/Sindh/karachi.html`
+  - `pages/Sindh/larkana.html`
+  - `pages/Punjab/index.html`
+  - `pages/Punjab/pindi.html`
+  - `pages/Punjab/faisal.html`
+  - `pages/Balochistan/index.html`
+  - `pages/Balochistan/quetta.html`
+  - `pages/Balochistan/chaghi.html`
+
+#### 🧠 What I Learned:
+- Created a **main homepage** with nested links for each province of Pakistan
+- Implemented **unordered lists** inside HTML to represent hierarchical navigation
+- Practiced linking between different folders using `relative paths`
+- Deepened understanding of basic HTML structure and navigation
+
+#### 🌐 Preview Output:
+The homepage shows:
+> _"Home Page Of Pakistan"_  
+With nested links to KPK, Sindh, Punjab, and Balochistan provinces — and within each, links to two major cities.
+
+---
+
+### 📅 Day 6 – *(Coming Soon)*
 
 ---
 
