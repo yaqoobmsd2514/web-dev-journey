@@ -152,7 +152,36 @@ This page includes:
 
 ---
 
-### 📅 Day 7 – *(Coming Soon)*
+## 📅 Day 7: SMIT - 7th Class - 09 August 2025
+
+🧠 What I Learned:
+- Created an HTML table to display PSL points table data
+- Used colspan attribute to merge table cells
+- Practiced linking between different HTML files using <a> tag
+- Added images to each team's detail page
+- Used ordered lists to display match results for each team
+
+🌐 Preview Output:
+The PSL points table page displays a table with team standings, and each team name links to its respective detail page, showing match results and team information.
+
+🔗 Key Features:
+- Table structure with merged cells for headings
+- Internal linking between PSL points table and team detail pages
+- Image handling with alt and title attributes
+- Ordered lists for match results on each team's page
+
+  #### 📄 Files Created:
+- index.html (PSL Points Table)
+- que.html (Quetta Gladiators details)
+- isl.html (Islamabad United details)
+- kar.html (Karachi Kings details)
+- lah.html (Lahore Qalandars details)
+- pes.html (Peshawar Zalmi details)
+- mul.html (Multan Sultans details)
+
+---
+
+### 📅 Day 8 – *(Coming Soon)*
 
 ---
 
