@@ -181,7 +181,37 @@ The PSL points table page displays a table with team standings, and each team na
 
 ---
 
-### 📅 Day 8 – *(Coming Soon)*
+## 📅 Day 8 – HTML Tables & Forms
+
+Today’s session at **SMIT Aziz Jan Trust, Peshawar** focused on two core HTML topics: **Tables** and **Forms**.  
+I practiced building structured layouts using `<table>` and creating user input sections with `<form>`.
+
+### ✅ What I Learned
+- **HTML Forms**  
+  - Created a simple login form with:
+    - **Username** (text input with `maxlength` restriction)  
+    - **Password** (password input with hidden characters)  
+    - Submit button for form submission
+  - Learned how to use `size`, `maxlength`, `name`, and `method` attributes effectively.
+
+- **HTML Tables**  
+  - Designed a **Time Table** with merged cells using `colspan`.
+  - Built a **TV Channel Schedule** table using:
+    - `rowspan` for vertical merging
+    - `scope` attributes for accessibility
+  - Created a **Long Table** example with:
+    - `<thead>`, `<tbody>`, and `<tfoot>` for structure
+    - `cellpadding` and `bgcolor` attributes
+    - Income and expenditure data rows
+
+### 📂 Files Created
+- `form.html` → Simple username/password login form
+- `tables.html` → Multiple examples including timetable, channel schedule, and a detailed long table
+
+
+---
+
+### 📅 Day 9 – *(Coming Soon)*
 
 ---
 
