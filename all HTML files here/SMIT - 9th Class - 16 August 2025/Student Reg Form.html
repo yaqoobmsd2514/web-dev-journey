@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Registration Form</title>
+</head>
+<body>
+
+<h1>Student Registration Form</h1>
+ <form >
+    <fieldset>
+        <legend>Personal Information</legend>
+
+   <label> Full Name: <input type="text" name="fullName" required/></label><br /><br />
+
+<label>
+    Father Name: <input  type="text" name="fatherName" required/><br /><br />
+</label>
+<label>
+    Email: <input type="email" name="email" required/><br /><br />
+</label>
+<label>
+    Pin: <input type="password" name="pin" required/><br /><br />
+</label>
+</fieldset>
+<fieldset>
+    <legend>Gender</legend>
+<label>
+    <input type="radio" name="gender" value="male" required/> Male<br />
+    <input type="radio" name="gender" value="female" required/> Female<br />
+    <input type="radio" name="gender" value="other" required/> Other<br />
+</label></fieldset>
+<fieldset>
+    <legend>Hobby</legend>
+<label>
+<input type="checkbox" name="interest" value="cricket" required/>Cricket<br />
+<input type="checkbox" name="interest" value="football" required/>Football<br />
+<input type="checkbox" name="interest" value="hockey" required/>Hockey<br />
+</label></fieldset>
+<fieldset>
+    <legend>Feedback</legend>
+    <label> <textarea name="comments" cols="20" rows="4">Enter your comments...</textarea></label><br />
+</fieldset>
+<p>
+    <input type="submit" name="submit" />
+</p>
+ </form>
+</body>
+</html>
