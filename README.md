@@ -19,7 +19,6 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 ## 📘 Daily Progress
 
 ### 📅 Day 1 – HTML Basics & Personal CV
-📁 `html/SMIT - 1st Class - 19 July 2025`
 
 **What I Learned:**
 - Structure of HTML documents
@@ -52,7 +51,7 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 ---
 
 ### 📅 Day 3 – HTML Lists, Citations, and Address Tags  
-📁 `html/SMIT - 3rd Class - 26 July 2025`
+
 
 ### ✅ What I Learned:
 - Ordered Lists `<ol>` and Unordered Lists `<ul>`
@@ -71,8 +70,7 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 
 ---
 
-### 📅 Day 4 – HTML Links, Navigation, CSS & JS Intro  
-📁 `html/SMIT - 4th Class - 27 July 2025`
+### 📅 Day 4:
 
 **✅ What I Learned:**
 - Created internal and external hyperlinks using the `<a>` tag
@@ -95,10 +93,7 @@ Hi! I'm **Muhammad Yaqoob**, and this repository contains my complete hands-on j
 
 ---
 
-### 📘 Day 5: SMIT - 5th Class - 02 August 2025
-
-#### 🗂 Folder Name:
-`SMIT - 5th Class - 02 August 2025`
+### 📘 Day 5: 
 
 #### 📄 Files Created:
 - `index.html`
@@ -129,7 +124,7 @@ With nested links to KPK, Sindh, Punjab, and Balochistan provinces — and withi
 
 ---
 
-## 📅 Day 6: SMIT - 6th Class - 03 August 2025
+## 📅 Day 6: 
 
 Today, I built the main **Home Page of Pakistan** using basic HTML structure. I created a nested list navigation system that links to all four provinces (Punjab, Sindh, KPK, Balochistan) and their major cities such as Peshawar, DIKhan, Karachi, Larkana, Rawalpindi, Faisalabad, Quetta, and Chaghi.  
 
@@ -152,7 +147,7 @@ This page includes:
 
 ---
 
-## 📅 Day 7: SMIT - 7th Class - 09 August 2025
+## 📅 Day 7: 
 
 🧠 What I Learned:
 - Created an HTML table to display PSL points table data
@@ -239,7 +234,32 @@ This helped me understand how to structure forms with different input types, lab
 
 ---
 
-### 📅 Day 10 – *(Coming Soon)*
+## 📅 Day 10 – Advanced HTML Forms    
+
+### ✅ What I Learned  
+- Creating **structured registration forms** using `<fieldset>` and `<legend>` for grouping  
+- Adding `placeholder` attributes for clearer input guidance  
+- Practicing multiple **input types** (`text`, `email`, `password`, `radio`, `checkbox`, `select`, `textarea`)  
+- Designed a **Tourism Registration Form** including:  
+  - Personal Information (Name, Email, Phone, CNIC, Address)  
+  - City, State, and Country dropdowns  
+  - Gender selection (radio buttons)  
+  - Visiting Destinations (checkboxes + custom option)  
+  - Accessibility/Disabilities section  
+  - Comments/Feedback section  
+- Built a **Student Registration Form** with:  
+  - Personal Information (Name, Father’s Name, Email, PIN)  
+  - Gender selection (radio buttons)  
+  - Hobbies selection (checkboxes)  
+  - Feedback textarea  
+
+### 📂 Files  
+- `tourism-form.html`  
+- `student-form.html`  
+
+---
+
+### 📅 Day 11 – *(Coming Soon)*
 
 ---
 
