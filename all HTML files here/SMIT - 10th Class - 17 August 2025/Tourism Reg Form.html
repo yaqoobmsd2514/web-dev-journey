@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tourism Registration Form</title>
+  </head>
+  <body>
+    <h1>Tourism Registration Form</h1>
+
+    <form method="post">
+      <fieldset>
+        <legend>Personal Information</legend>
+
+        <label for="fullName">Full Name</label><br />
+        <input
+          type="text"
+          id="fullName"
+          name="fullName"
+          placeholder="e.g., Muhammad Yaqoob"
+          required
+        /><br /><br />
+
+        <label for="email">Email</label><br />
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="e.g., you@example.com"
+          required
+        /><br /><br />
+
+        <label for="phone">Phone Number</label><br />
+        <input
+          type="text"
+          id="phone"
+          name="phone"
+          placeholder="e.g., 03XX-XXXXXXX"
+          required
+        /><br /><br />
+
+        <label for="cnic">CNIC Number</label><br />
+        <input
+          type="text"
+          id="cnic"
+          name="cnic"
+          placeholder="e.g., 12345-1234567-1"
+          required
+        /><br /><br />
+
+        <label for="address">Address</label><br />
+        <input
+          type="text"
+          id="address"
+          name="address"
+          placeholder="House / Street / Area"
+          required
+        /><br /><br />
+
+        <label for="city">City</label><br />
+        <select id="city" name="city" required>
+          <option value="" selected disabled>Select City</option>
+          <option>Islamabad</option>
+          <option>Lahore</option>
+          <option>Karachi</option>
+          <option>Peshawar</option>
+          <option>Quetta</option>
+          <option>Multan</option>
+          <option>Faisalabad</option>
+          <option>Rawalpindi</option>
+          <option>Skardu</option>
+          <option>Hunza</option></select
+        ><br /><br />
+
+        <label for="state">State / Province</label><br />
+        <select id="state" name="state" required>
+          <option value="" selected disabled>Select State/Province</option>
+          <option>Punjab</option>
+          <option>Sindh</option>
+          <option>Khyber Pakhtunkhwa</option>
+          <option>Balochistan</option>
+          <option>Gilgit-Baltistan</option>
+          <option>Azad Jammu & Kashmir</option>
+          <option>Islamabad Capital Territory</option></select
+        ><br /><br />
+
+        <label for="country">Country</label><br />
+        <select id="country" name="country" required>
+          <option value="" selected disabled>Select Country</option>
+          <option>Pakistan</option>
+          <option>Afghanistan</option>
+          <option>China</option>
+          <option>India</option>
+          <option>United Arab Emirates</option>
+          <option>Saudi Arabia</option>
+          <option>United Kingdom</option>
+          <option>United States</option>
+          <option>Other</option></select
+        ><br /><br />
+
+        <span>Gender</span><br />
+        <label
+          ><input type="radio" name="gender" value="Male" required />
+          Male</label
+        >
+        <label
+          ><input type="radio" name="gender" value="Female" /> Female</label
+        >
+        <label><input type="radio" name="gender" value="Other" /> Other</label>
+      </fieldset>
+
+      <br />
+
+      <fieldset>
+        <legend>Trip Preferences</legend>
+
+        <p>Visiting Destinations (select all that apply):</p>
+        <label
+          ><input type="checkbox" name="destinations" value="Waziristan" />
+          Waziristan</label
+        ><br />
+        <label
+          ><input type="checkbox" name="destinations" value="Swat" />
+          Swat</label
+        ><br />
+        <label
+          ><input type="checkbox" name="destinations" value="Naran-Kaghan" />
+          Naran & Kaghan</label
+        ><br />
+        <label
+          ><input type="checkbox" name="destinations" value="Karachi" /> Karachi
+          (Coastal)</label
+        ><br />
+        <label
+          ><input type="checkbox" name="destinations" value="Other" />
+          Other</label
+        >
+        <input
+          type="text"
+          name="destinations_other"
+          placeholder="If other, specify"
+        />
+      </fieldset>
+
+      <br />
+
+      <!-- Accessibility -->
+      <fieldset>
+        <legend>Accessibility</legend>
+        <p>Disabilities (select all that apply):</p>
+        <label
+          ><input type="checkbox" name="disabilities" value="None" />
+          None</label
+        ><br />
+        <label
+          ><input type="checkbox" name="disabilities" value="Mobility" />
+          Mobility impairment</label
+        ><br />
+        <label
+          ><input type="checkbox" name="disabilities" value="Visual" /> Visual
+          impairment</label
+        ><br />
+        <label
+          ><input type="checkbox" name="disabilities" value="Hearing" /> Hearing
+          impairment</label
+        ><br />
+        <label
+          ><input type="checkbox" name="disabilities" value="Cognitive" />
+          Cognitive/learning</label
+        ><br />
+        <label
+          ><input type="checkbox" name="disabilities" value="Other" />
+          Other</label
+        >
+        <input
+          type="text"
+          name="disabilities_other"
+          placeholder="If other, specify"
+        />
+      </fieldset>
+
+      <br />
+
+      <!-- Feedback -->
+      <fieldset>
+        <legend>Feedback / Comments</legend>
+        <label for="comments" class="sr-only"></label>
+        <textarea
+          id="comments"
+          name="comments"
+          rows="5"
+          cols="40"
+          placeholder="Share any preferences, dates, or questions..."
+        ></textarea>
+      </fieldset>
+
+      <br />
+
+      <button type="submit">Submit Registration</button>
+      <button type="reset">Reset</button>
+    </form>
+  </body>
+</html>
