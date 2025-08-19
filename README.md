@@ -208,10 +208,38 @@ I practiced building structured layouts using `<table>` and creating user input 
 - `form.html` → Simple username/password login form
 - `tables.html` → Multiple examples including timetable, channel schedule, and a detailed long table
 
+---
+
+## 📅 Day 9 – Tourism & Student Registration Forms in HTML
+
+Today I worked on creating **registration forms** using pure HTML.  
+This helped me understand how to structure forms with different input types, labels, and grouping options for better user experience.  
+
+### 📝 Key Takeaways:
+- Built a **Tourism Registration Form** with:
+  - Full Name, Email, Phone, CNIC, and Address fields  
+  - Dropdowns for **City, State, and Country**  
+  - **Gender selection** with radio buttons  
+  - **Visiting Destinations** and **Disabilities** using checkboxes  
+  - Comments section with a textarea  
+  - File upload option for profile picture  
+
+- Created a **Student Registration Form** with:
+  - Personal information (Full Name, Father Name, Email, Password)  
+  - Grouped inputs using **fieldset and legend**  
+  - Gender selection with radio buttons  
+  - Hobby selection with checkboxes  
+  - Feedback/Comments section  
+
+### 🚀 Skills Practiced:
+- Proper use of `<form>`, `<input>`, `<select>`, `<textarea>`  
+- Grouping inputs with `<fieldset>` and `<legend>`  
+- Handling different input types (text, email, password, file, checkbox, radio)  
+- Designing user-friendly forms  
 
 ---
 
-### 📅 Day 9 – *(Coming Soon)*
+### 📅 Day 10 – *(Coming Soon)*
 
 ---
 
