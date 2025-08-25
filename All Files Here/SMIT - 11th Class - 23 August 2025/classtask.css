@@ -1,0 +1,14 @@
+body {
+    background-color: lightyellow;
+    color: darkblue;
+}
+
+.intro {
+    color: darkgreen;
+    background-color: lightblue;
+}
+
+#highlight {
+    color: white;
+    background-color: darkred;
+}
