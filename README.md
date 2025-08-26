@@ -255,11 +255,40 @@ This helped me understand how to structure forms with different input types, lab
 
 ### 📂 Files  
 - `tourism-form.html`  
-- `student-form.html`  
+- `student-form.html`
+- 
+---
+
+### Day 11 – Exploring CSS Colors, Backgrounds, and Selectors
+
+On Day 11, I practiced applying **colors**, **background colors**, and **selectors** to HTML elements to enhance web pages with visual styling.
+
+#### **What I Learned**
+- **Class Selectors (`.class`)** – Used to style multiple elements with the same class.
+- **ID Selectors (`#id`)** – Used to apply unique styles to specific elements.
+- **Background Colors** – Applied different background shades to sections for visual separation.
+- **Text Colors** – Learned how to apply colors to headings, paragraphs, and specific content.
+
+#### **Projects I Built**
+1. **Personal Bio Page**
+   - Showcased my learning journey using class and ID selectors for styling.
+   - Added background and text colors for a creative look.
+
+2. **Background Sections Page**
+   - Designed two sections with different background colors (light blue & light green).
+
+3. **Colorful Headings Page**
+   - Styled headings with different colors using class selectors.
+
+#### **Key Skills Practiced**
+- Linking CSS files to HTML pages.
+- Using selectors effectively to control styling.
+- Understanding the impact of colors on web design.
 
 ---
 
-### 📅 Day 11 – *(Coming Soon)*
+
+### 📅 Day 12 – *(Coming Soon)*
 
 ---
 
