@@ -286,9 +286,28 @@ On Day 11, I practiced applying **colors**, **background colors**, and **selecto
 - Understanding the impact of colors on web design.
 
 ---
+## Day 12 – Introduction to CSS & First Styling Projects
+
+Today, I have learned **CSS (Cascading Style Sheets)** to style my HTML pages and make them visually appealing. I explored how to apply colors, fonts, padding, margins, and background properties to enhance my web pages.
+
+### Key Learnings:
+- Linking external CSS files to HTML.
+- Using classes and IDs for targeted styling.
+- Working with **padding**, **margins**, and **font families**.
+- Applying **background colors**, **border styles**, and **typography**.
+- Understanding how CSS improves layout and design.
+
+### Projects Completed:
+1. **Blog Styling** – Designed a simple blog with custom fonts and background colors.
+2. **Quote Box** – Styled a quote container with padding, borders, and fonts.
+3. **Blog Post with Notes** – Created highlighted notes using background colors.
+4. **pH Scale Project** – Used multiple colors to represent acidity and alkalinity.
+5. **Profile Card** – Designed a card with rounded corners and a styled bio section.
+
+---
 
 
-### 📅 Day 12 – *(Coming Soon)*
+### 📅 Day 13 – *(Coming Soon)*
 
 ---
 
