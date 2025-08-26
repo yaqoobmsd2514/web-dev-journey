@@ -1,0 +1,12 @@
+.profile-card {
+    font-family: Verdana, sans-serif;
+    background-color: #f2f2f2;
+    padding: 15px;
+    border-radius: 8px;
+    width: 300px;
+}
+
+.bio {
+    padding: 10px;
+    background-color: lightblue;
+}
