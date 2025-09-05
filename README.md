@@ -306,8 +306,25 @@ Today, I have learned **CSS (Cascading Style Sheets)** to style my HTML pages an
 
 ---
 
+## 📅 Day 13 – Practicing HTML & CSS Components  
 
-### 📅 Day 13 – *(Coming Soon)*
+Today, I worked on multiple mini-projects to strengthen my HTML & CSS skills. These projects focused on layouts, buttons, cards, and modern UI elements.
+
+### 🔹 Projects Completed:
+
+1. **X (Twitter) Login Page Clone**  
+2. **ANY TechEd Admission Card**  
+3. **Pizza Card (ANY Pizza Hut – Chatkhara Pizza)**   
+
+### 📝 Key Learnings:
+- Improved understanding of **flexbox layouts**  
+- Learned to design **cards with shadow and border-radius**  
+- Practiced **hover effects** for better UI interactivity  
+- Explored how to structure product-like components with HTML & CSS  
+
+---
+
+### 📅 Day 14 – *(Coming Soon)*
 
 ---
 
